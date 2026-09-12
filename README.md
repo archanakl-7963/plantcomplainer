@@ -62,7 +62,7 @@ python main.py
 ![Malayalam Speech & Talking Tom Voice]()
 
 
-![In-Tune Malayalam Song Performance](https://drive.google.com/file/d/1-5Sx_gCQujSkONoxtjNxZBtSSKJhpZTb/view?usp=drive_link)
+![In-Tune Malayalam Song Performance](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20160927.png)
 
 
 #### Diagrams

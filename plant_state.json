@@ -1,0 +1,18 @@
+{
+  "water": 0,
+  "sunlight": 0,
+  "happiness": 0,
+  "attention": 0,
+  "irritation": 100,
+  "ignored_count": 1662,
+  "last_interaction": 0,
+  "last_complaint_time": 1789208731.905998,
+  "active_voice_profile": "default",
+  "start_with_windows": true,
+  "enable_complaints": false,
+  "enable_voice": true,
+  "enable_context_detection": true,
+  "show_floating_plant": true,
+  "frequency": "Medium",
+  "irritation_setting": "Drama Queen"
+}

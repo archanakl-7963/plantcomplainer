@@ -1,0 +1,18 @@
+{
+  "active_profile": "default",
+  "profiles": {
+    "default": {
+      "name": "Cute Plant",
+      "language": "Malayalam / Manglish",
+      "style": "Drama Queen (High Irritation)",
+      "samples": [
+        "sample_01.wav"
+      ],
+      "pitch_shift": 2.25,
+      "speed_shift": 1.1,
+      "model_type": "hybrid_local",
+      "pitch_hz": 360.0,
+      "timbre": "talking tom cute cartoon"
+    }
+  }
+}

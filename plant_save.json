@@ -1,0 +1,18 @@
+{
+  "water_level": 75.0,
+  "sunlight_level": 70.0,
+  "health": 100.0,
+  "happiness": 85.0,
+  "attention_level": 80.0,
+  "last_watered": 1789196518.345902,
+  "last_sunlight": 1789196518.345903,
+  "last_interaction": 1789196518.3459032,
+  "enable_voice": true,
+  "enable_context_detection": true,
+  "enable_random_gossip": true,
+  "auto_complaints": true,
+  "complaint_interval_sec": 15,
+  "dramatic_level": 5,
+  "sarcasm_level": 5,
+  "gossip_frequency": 5
+}

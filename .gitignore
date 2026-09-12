@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+audio_cache/*.mp3
+audio_cache/tom_*.wav
+audio_cache/edge_*.mp3
+audio_cache/conv_*.wav
+audio_cache/raw_*.wav
+audio_cache/test_*.wav
+.idea/
+.vscode/
+*.log

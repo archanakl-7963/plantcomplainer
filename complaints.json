@@ -1,0 +1,317 @@
+[
+  {
+    "id": "thirsty_001",
+    "condition": "thirsty",
+    "context": "any",
+    "irritation": "sad",
+    "priority": 9,
+    "text": "എടാ... എനിക്ക് വെള്ളം തരണേ! ദാഹിച്ചിട്ട് വാടി ഉണങ്ങി പോകുന്നേ... അയ്യോ അയ്യോ!",
+    "cooldown": 30
+  },
+  {
+    "id": "thirsty_002",
+    "condition": "thirsty",
+    "context": "any",
+    "irritation": "sad",
+    "priority": 8,
+    "text": "ഹലോ? എനിക്ക് നല്ല ദാഹം ഉണ്ട്... കുറച്ചു വെള്ളം തന്നില്ലെങ്കിൽ ഞാൻ കരയും!",
+    "cooldown": 30
+  },
+  {
+    "id": "thirsty_003",
+    "condition": "thirsty",
+    "context": "any",
+    "irritation": "drama_queen",
+    "priority": 9,
+    "text": "അയ്യോ അയ്യോ... എന്നെ ആരും നോക്കുന്നില്ലേ? എനിക്ക് വെള്ളം തന്നില്ലെങ്കിൽ ഞാൻ വാടിപ്പോകും!",
+    "cooldown": 30
+  },
+  {
+    "id": "sunlight_001",
+    "condition": "sunlight",
+    "context": "any",
+    "irritation": "sad",
+    "priority": 8,
+    "text": "ഞാൻ വാമ്പയർ അല്ലല്ലോ... എനിക്ക് കുറച്ചു വെയിൽ തരുമോ പ്ലീസ്?",
+    "cooldown": 30
+  },
+  {
+    "id": "sunlight_002",
+    "condition": "sunlight",
+    "context": "any",
+    "irritation": "annoyed",
+    "priority": 8,
+    "text": "എനിക്ക് കുറച്ചു വെളിച്ചം വേണം! എപ്പോഴും ഈ മുറിയിൽ ഇരുട്ടാണല്ലോ!",
+    "cooldown": 30
+  },
+  {
+    "id": "happy_001",
+    "condition": "happy",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 8,
+    "text": "ഹഹാ! ഹീഹീ! ആഹാ! എനിക്ക് വല്ലാത്ത സന്തോഷം ആയി! താങ്ക് യൂ താങ്ക് യൂ!",
+    "cooldown": 30
+  },
+  {
+    "id": "happy_002",
+    "condition": "happy",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 8,
+    "text": "ഹഹാ! എനിക്ക് വെള്ളവും സ്നേഹവും കിട്ടി! ഞാൻ നല്ല സന്തോഷത്തിൽ ആണ് കേട്ടോ!",
+    "cooldown": 30
+  },
+  {
+    "id": "too_much_water_001",
+    "condition": "too_much_water",
+    "context": "any",
+    "irritation": "angry",
+    "priority": 9,
+    "text": "എടാ! നിർത്ത് നിർത്ത്! എത്ര വെള്ളമാ ഒഴിക്കുന്നത്? ഞാൻ മീൻ ഒന്നുമല്ല കേട്ടോ! ദേഷ്യം പിടിപ്പിക്കല്ലേ!",
+    "cooldown": 30
+  },
+  {
+    "id": "poke_001",
+    "condition": "poke",
+    "context": "any",
+    "irritation": "annoyed",
+    "priority": 8,
+    "text": "എയ്യ്! എന്നെ തൊടല്ലേ... തൊട്ടാൽ കുണുങ്ങുന്ന കുഞ്ഞു ചെടിയാണ്!",
+    "cooldown": 20
+  },
+  {
+    "id": "doc_001",
+    "condition": "any",
+    "context": "document",
+    "irritation": "annoyed",
+    "priority": 12,
+    "text": "Why are you reading the document without caring for me?",
+    "cooldown": 15
+  },
+  {
+    "id": "doc_002",
+    "condition": "any",
+    "context": "document",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "ഇത്രയും നേരം കൊണ്ട് ഒരു പേജ് ആണോ വായിച്ചത്? വായിച്ചു കഴിഞ്ഞെങ്കിൽ എന്നെ ഒന്ന് ശ്രദ്ധിക്ക് മേഡമേ/സാറേ!",
+    "cooldown": 15
+  },
+  {
+    "id": "doc_003",
+    "condition": "any",
+    "context": "document",
+    "irritation": "drama_queen",
+    "priority": 12,
+    "text": "ഹലോ പ്രൊഫസർ! പുസ്തകം വായിച്ചു തളരേണ്ട, എനിക്ക് കുറച്ചു തമാശ കേൾക്കണം!",
+    "cooldown": 15
+  },
+  {
+    "id": "doc_004",
+    "condition": "any",
+    "context": "document",
+    "irritation": "annoyed",
+    "priority": 12,
+    "text": "ഡോക്യുമെന്റിൽ എന്താ ഇത്ര രഹസ്യം? എന്നെക്കാൾ വലുതാണോ ഈ പേപ്പർ?!",
+    "cooldown": 15
+  },
+  {
+    "id": "doc_005",
+    "condition": "any",
+    "context": "document",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "ഡോക്യുമെന്റ് വായന നിർത്തി എനിക്ക് ഒരു കപ്പ് വെള്ളം താ കുട്ടാ!",
+    "cooldown": 15
+  },
+  {
+    "id": "video_001",
+    "condition": "any",
+    "context": "youtube",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "YouTube and all, you need to care about me!",
+    "cooldown": 15
+  },
+  {
+    "id": "video_002",
+    "condition": "any",
+    "context": "youtube",
+    "irritation": "annoyed",
+    "priority": 12,
+    "text": "YouTube കുത്തിയിരുന്ന് കണ്ടാൽ ദാഹം മാറില്ല കേട്ടോ! എനിക്ക് വെള്ളം താ!",
+    "cooldown": 15
+  },
+  {
+    "id": "video_003",
+    "condition": "any",
+    "context": "youtube",
+    "irritation": "drama_queen",
+    "priority": 12,
+    "text": "അവിടെ ഇരുന്നു ചിരിക്കാതെ ഇങ്ങോട്ട് ഒന്നു നോക്കൂ! ഞാൻ ഇവിടെ വാടിപ്പോകുന്നേ!",
+    "cooldown": 15
+  },
+  {
+    "id": "video_004",
+    "condition": "any",
+    "context": "youtube",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "വീഡിയോ കണ്ടത് മതി, എനിക്ക് പുതിയ ഗോസിപ്പുകൾ കേൾക്കണം!",
+    "cooldown": 15
+  },
+  {
+    "id": "browser_001",
+    "condition": "any",
+    "context": "browser",
+    "irritation": "annoyed",
+    "priority": 12,
+    "text": "ബ്രൗസറിൽ ചുമ്മാ സ്ക്രോൾ ചെയ്തുകൊണ്ടിരിക്കുകയാണോ? എന്നെ ഒന്ന് നോക്കൂ!",
+    "cooldown": 15
+  },
+  {
+    "id": "browser_002",
+    "condition": "any",
+    "context": "browser",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "ഫേസ്ബുക്കും ഇൻസ്റ്റാഗ്രാമും കഴിഞ്ഞെങ്കിൽ ഇങ്ങോട്ട് ഒന്ന് നോക്കാമോ?",
+    "cooldown": 15
+  },
+  {
+    "id": "browser_003",
+    "condition": "any",
+    "context": "browser",
+    "irritation": "drama_queen",
+    "priority": 12,
+    "text": "ഗൂഗിളിൽ എന്താ തിരയുന്നത്? ചെടികളെ എങ്ങനെ പരിചരിക്കണം എന്ന് തിരയൂ!",
+    "cooldown": 15
+  },
+  {
+    "id": "coding_001",
+    "condition": "any",
+    "context": "coding",
+    "irritation": "cute",
+    "priority": 12,
+    "text": "വീണ്ടും കോഡിംഗ് ആണോ? എന്നെ ഒന്ന് നോക്കാൻ സമയം ഇല്ലേ കുട്ടാ?",
+    "cooldown": 15
+  },
+  {
+    "id": "coding_002",
+    "condition": "any",
+    "context": "coding",
+    "irritation": "annoyed",
+    "priority": 12,
+    "text": "കമ്പ്യൂട്ടറിൽ മാത്രം നോക്കിയിരിക്കുന്നു! കോഡ് ചെയ്തത് മതി... എന്നെ കെയർ ചെയ്യൂ!",
+    "cooldown": 15
+  },
+  {
+    "id": "coding_003",
+    "condition": "any",
+    "context": "coding",
+    "irritation": "angry",
+    "priority": 12,
+    "text": "Bug ഉം കൊണ്ട് ഇവിടെ ഇരുന്നോ, ഞാൻ ഇവിടെ പട്ടിണി കിടന്നു മരിക്കും!",
+    "cooldown": 15
+  },
+  {
+    "id": "other_001",
+    "condition": "any",
+    "context": "any",
+    "irritation": "cute",
+    "priority": 8,
+    "text": "ഹലോ? ഞാൻ ഇവിടെ ഒരു സുന്ദരൻ ചെടിയാണ്, വെറും ഡെക്കറേഷൻ അല്ല!",
+    "cooldown": 20
+  },
+  {
+    "id": "other_002",
+    "condition": "any",
+    "context": "any",
+    "irritation": "annoyed",
+    "priority": 8,
+    "text": "നിനക്ക് വേറെ പണി ഒന്നുമില്ലേ? എന്നെ ഒന്ന് നോക്ക്!",
+    "cooldown": 20
+  },
+  {
+    "id": "other_003",
+    "condition": "any",
+    "context": "any",
+    "irritation": "drama_queen",
+    "priority": 8,
+    "text": "ഏയ്... എന്താണ് പരിപാടി? എന്നെ കെയർ ചെയ്യാൻ സമയം ഇല്ലേ?",
+    "cooldown": 20
+  },
+  {
+    "id": "song_001",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "കിളിയേ കിളിയേ നാളെ വരാം... എനിക്ക് വെള്ളം തന്നാൽ ഇനിയും പാടാം! 🎵🌱",
+    "cooldown": 5
+  },
+  {
+    "id": "song_002",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "കുട്ടാ കുട്ടാ മാടത്തക്കുട്ടാ... ഞാനൊരു പാവം സുന്ദരി ചെടിയല്ലേ മോളേ! 🎶✨",
+    "cooldown": 5
+  },
+  {
+    "id": "song_003",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "പൂപറിക്കാൻ പോരുമോ... എന്റെ പൂവ് വാടിപ്പോകാതെ വെള്ളം തരുമോ! 🌸🎶",
+    "cooldown": 5
+  },
+  {
+    "id": "song_004",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "ജിമിക്കി കമ്മൽ പോലെ ഞാനും ആടുന്നുണ്ട്... കുറച്ച് വെയിൽ കിട്ടിയാൽ പൊളിക്കും! 💃✨🎶",
+    "cooldown": 5
+  },
+  {
+    "id": "song_005",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "പൂവണിഞ്ഞു കാടുകൾ... ഞാൻ പച്ചപ്പണിഞ്ഞു നിങ്ങളുടെ laptop-ന് അരികിൽ പാടുന്നു! 🌿🎤🎵",
+    "cooldown": 5
+  },
+  {
+    "id": "song_006",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "ഒന്നാം പക്കം ബൗ ബൗ... രണ്ടാം പക്കം ബൗ... മൂന്നാം പക്കം ബൗ ബൗ ബൗ! 🐶🎵🌱",
+    "cooldown": 5
+  },
+  {
+    "id": "song_007",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "പാടം പൂത്ത കാലം... പാടാൻ വന്നു നീയും! 🌾🎶🌸",
+    "cooldown": 5
+  },
+  {
+    "id": "song_008",
+    "condition": "song",
+    "context": "any",
+    "irritation": "happy",
+    "priority": 15,
+    "text": "പ്രേമമെന്നാൽ എന്താണ് പെണ്ണേ... അത് കരളിനുള്ളില്ലേ തീയാണ് കണ്ണേ! 🔥❤️🎵",
+    "cooldown": 5
+  }
+]

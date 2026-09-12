@@ -66,7 +66,7 @@ python main.py
 
 
 #### Diagrams
-![Workflow Architecture](assets/plant_on.png)
+![Workflow Architecture](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20190210.png)
 *Caption: Complete System Architecture — Real-Time OS Activity Detection → Plant State & Need Decay → Context Analysis Engine → Gen-Z Malayalam Gossip Generator → Talking Tom Vocoder Resynthesis → Screen-Wide Flying Bees & Zigzag Dragonflies Overlay*
 
 ---

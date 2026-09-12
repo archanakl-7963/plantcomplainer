@@ -59,7 +59,7 @@ python main.py
 ![Plant Complainer Interface](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20160913.png)
 
 
-![Malayalam Speech & Talking Tom Voice]()
+![Malayalam Speech & Talking Tom Voice](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20161358.png)
 
 
 ![In-Tune Malayalam Song Performance](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20160927.png)

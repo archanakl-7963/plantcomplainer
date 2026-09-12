@@ -56,10 +56,10 @@ python main.py
 ### For Software:
 
 #### Screenshots
-![Plant Complainer Interface](https://drive.google.com/file/d/1wmWeaNcsAov4ZKKt3K63pO0MFehJa76j/view?usp=drive_link)
+![Plant Complainer Interface](https://github.com/archanakl-7963/plantcomplainer/blob/main/Screenshot%202026-09-12%20160913.png)
 
 
-![Malayalam Speech & Talking Tom Voice](https://drive.google.com/file/d/17K7q33v_qPeti6EnYqfLiVjv9616fqK-/view?usp=sharing)
+![Malayalam Speech & Talking Tom Voice]()
 
 
 ![In-Tune Malayalam Song Performance](https://drive.google.com/file/d/1-5Sx_gCQujSkONoxtjNxZBtSSKJhpZTb/view?usp=drive_link)

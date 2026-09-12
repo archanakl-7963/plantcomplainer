@@ -56,14 +56,14 @@ python main.py
 ### For Software:
 
 #### Screenshots
-![Plant Complainer Interface](assets/plant_on.png)
-*Caption: Plant Complainer Floating Character Popup & Top-Right 1-Click Control Switch Bar*
+![Plant Complainer Interface](https://drive.google.com/file/d/1wmWeaNcsAov4ZKKt3K63pO0MFehJa76j/view?usp=drive_link)
 
-![Malayalam Speech & Talking Tom Voice](assets/plant_on.png)
-*Caption: Context-Aware Malayalam Gossip & High-Pitched Talking Tom Voice Resynthesis*
 
-![In-Tune Malayalam Song Performance](assets/plant_on.png)
-*Caption: Plant Singing Malayalam Songs in Tune with Studio Equalizer & Vibrato Echo Filters*
+![Malayalam Speech & Talking Tom Voice](https://drive.google.com/file/d/17K7q33v_qPeti6EnYqfLiVjv9616fqK-/view?usp=sharing)
+
+
+![In-Tune Malayalam Song Performance](https://drive.google.com/file/d/1-5Sx_gCQujSkONoxtjNxZBtSSKJhpZTb/view?usp=drive_link)
+
 
 #### Diagrams
 ![Workflow Architecture](assets/plant_on.png)
@@ -74,7 +74,7 @@ python main.py
 ## Project Demo
 
 ### Video
-[Watch Plant Complainer Demo Video](https://github.com/tinkerhub/useless-projects-demo)
+[Watch Plant Complainer Demo Video](https://drive.google.com/file/d/1GEUorARJIRUGIiFrZHL3GGEW1ACbm3FU/view?usp=drive_link)
 *Demonstrates real-time OS activity detection, context-aware Malayalam complaints, screen-wide flying bees & dragonflies, and in-tune Malayalam song performances.*
 
 ### Additional Demos
